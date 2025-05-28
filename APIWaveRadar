@@ -1,0 +1,22 @@
+
+---
+
+**APIWaveRadar**  
+**Description:**  
+Monitors and visualizes wave-like shifts in API latency, including sudden disruptions and slow pulse drifts.
+
+```markdown
+# APIWaveRadar - Latency Wave Monitor
+
+APIWaveRadar detects undulating latency patterns in real-time and visualizes delay trends and endpoint fluctuations.
+
+## Features
+- Waveform latency analysis  
+- Endpoint drift detection  
+- Export logs to CSV or JSON
+
+## Usage
+```bash
+git clone https://github.com/your-username/APIWaveRadar.git
+cd APIWaveRadar
+python monitor.py
