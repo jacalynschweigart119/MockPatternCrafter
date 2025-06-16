@@ -1,0 +1,22 @@
+
+---
+
+**StreamTwistGraph**  
+**Description:**  
+Displays live numerical streams with a twisting line effect to emphasize volatility and rate of change.
+
+```markdown
+# StreamTwistGraph - Live Data Stream Visualizer
+
+StreamTwistGraph creates a dynamic flowing graph that twists based on directional movement and value deltas.
+
+## Features
+- Twisting animation logic  
+- Scrollable timeline  
+- Built with Matplotlib
+
+## Usage
+```bash
+git clone https://github.com/your-username/StreamTwistGraph.git
+cd StreamTwistGraph
+python visualize.py
